@@ -1,0 +1,23 @@
+{
+  "name": "kafka_producer",
+  "version": "1.0.0",
+  "description": "This is kafka producer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swatib91/kafka-producer.git"
+  },
+  "author": "Swati Bhaip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swatib91/kafka-producer/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Swatib91/kafka-producer#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
